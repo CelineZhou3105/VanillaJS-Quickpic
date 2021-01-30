@@ -27,13 +27,13 @@ A very similar structure to popular websites such as Facebook, Reddit etc.
 ![Sign Up Form](screenshots/signup.PNG)
 
 #### Feed Page
-![Feed](screenshots/feed.PNG)
+![Feed](screenshots/feed.png)
 
 #### Profile Page
-![Profile Page](screenshots/profile.PNG)
+![Profile Page](screenshots/profile.png)
 
 #### Settings
-![Settings](screenshots/settings.PNG)
+![Settings](screenshots/settings.png)
 
 #### Feed with no posts! Sad feed
-![Lonely Feed](screenshots/lonelyfeed.PNG)
+![Lonely Feed](screenshots/lonelyfeed.png)
