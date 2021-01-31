@@ -9,7 +9,7 @@ A very similar structure to popular websites such as Facebook, Reddit etc.
 3. To run the frontend server, run `python3 -m http.server` in the root directory
 
 ## Features of the website
-- Log in as a user using username and password
+- Log in as a registered user using username and password
 - Sign up as a new user with a username, email, name and password
 - Entertain yourself with your news feed, filled with posts made by people you follow
 - Like and comment on posts
