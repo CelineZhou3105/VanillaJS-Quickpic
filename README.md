@@ -1,7 +1,7 @@
 # VanillaJS-Quickpic
 A responsive website coded in VanillaJS with a python backend.  
+A very similar structure to popular websites such as Facebook, Reddit etc. 
 Visually pleasing and cute website.  
-A very similar structure to popular websites such as Facebook, Reddit etc.  
 
 ## Instructions
 1. Clone the repository
